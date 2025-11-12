@@ -1,0 +1,9 @@
+2025-11-12 11:21:22,885 - INFO - --- Application Started (V5.0) ---
+2025-11-12 11:21:22,947 - INFO - --- Display Info Refreshed: Found 2 monitors ---
+2025-11-12 11:21:22,948 - INFO - ÏÔÊ¾Æ÷ 1: 2560x1440 @ 165Hz, Primary=True
+2025-11-12 11:21:22,948 - INFO - ÏÔÊ¾Æ÷ 2: 1920x1080 @ 59Hz, Primary=False
+2025-11-12 11:21:22,956 - INFO - Startup status: Enabled
+2025-11-12 11:21:22,956 - INFO - icon.png not found. Using dummy icon.
+2025-11-12 11:21:24,385 - INFO - Main window displayed.
+2025-11-12 11:21:25,432 - INFO - Startup disabled successfully.
+2025-11-12 11:21:40,091 - INFO - Application quit by user.
