@@ -1,0 +1,80 @@
+2025-11-12 11:20:50,086 - INFO - --- Application Started (V6.1) ---
+2025-11-12 11:20:50,147 - INFO - --- Display Info Refreshed: Found 2 monitors ---
+2025-11-12 11:20:50,147 - INFO - 显示器 1: 2560x1440 @ 165Hz, Primary=True
+2025-11-12 11:20:50,147 - INFO - 显示器 2: 1920x1080 @ 59Hz, Primary=False
+2025-11-12 11:20:51,251 - INFO - Main window displayed.
+2025-11-12 11:21:46,700 - INFO - Switching to single display: 1
+2025-11-12 11:21:52,346 - INFO - Switching to single display: 2
+2025-11-12 11:22:06,896 - INFO - Orientation config saved successfully.
+2025-11-12 11:22:06,897 - INFO - Extending monitors 1 and 2 with orientations
+2025-11-12 11:22:10,811 - INFO - Orientation set successfully for \\.\DISPLAY2: 横向
+2025-11-12 11:22:20,319 - INFO - Orientation config saved successfully.
+2025-11-12 11:22:20,319 - INFO - Extending monitors 1 and 2 with orientations
+2025-11-12 11:22:22,955 - INFO - Orientation set successfully for \\.\DISPLAY2: 横向
+2025-11-12 11:22:25,932 - INFO - Orientation config saved successfully.
+2025-11-12 11:22:25,932 - INFO - Extending monitors 1 and 2 with orientations
+2025-11-12 11:22:28,616 - INFO - Orientation set successfully for \\.\DISPLAY2: 横向
+2025-11-12 11:22:32,523 - INFO - Switching to single display: 1
+2025-11-12 11:22:48,716 - INFO - Switching to single display: 1
+2025-11-12 11:22:53,998 - INFO - Orientation config saved successfully.
+2025-11-12 11:22:53,998 - INFO - Extending monitors 1 and 2 with orientations
+2025-11-12 11:22:55,765 - INFO - Orientation set successfully for \\.\DISPLAY1: 横向
+2025-11-12 11:22:56,573 - ERROR - Error setting orientation for \\.\DISPLAY2: (0, 'EnumDisplaySettings', 'No error message is available')
+2025-11-12 11:23:01,912 - INFO - --- Display Info Refreshed: Found 2 monitors ---
+2025-11-12 11:23:01,912 - INFO - 显示器 1: 1920x1080 @ 60Hz, Primary=False
+2025-11-12 11:23:01,912 - INFO - 显示器 2: 1920x1080 @ 59Hz, Primary=True
+2025-11-12 11:23:06,588 - INFO - --- Display Info Refreshed: Found 2 monitors ---
+2025-11-12 11:23:06,589 - INFO - 显示器 1: 1920x1080 @ 60Hz, Primary=False
+2025-11-12 11:23:06,589 - INFO - 显示器 2: 1920x1080 @ 59Hz, Primary=True
+2025-11-12 11:23:14,936 - INFO - --- Display Info Refreshed: Found 2 monitors ---
+2025-11-12 11:23:14,936 - INFO - 显示器 1: 1920x1080 @ 60Hz, Primary=False
+2025-11-12 11:23:14,936 - INFO - 显示器 2: 1920x1080 @ 59Hz, Primary=True
+2025-11-12 11:23:15,694 - INFO - --- Display Info Refreshed: Found 2 monitors ---
+2025-11-12 11:23:15,694 - INFO - 显示器 1: 1920x1080 @ 60Hz, Primary=False
+2025-11-12 11:23:15,694 - INFO - 显示器 2: 1920x1080 @ 59Hz, Primary=True
+2025-11-12 11:23:49,441 - INFO - --- Display Info Refreshed: Found 2 monitors ---
+2025-11-12 11:23:49,441 - INFO - 显示器 1: 2560x1440 @ 165Hz, Primary=False
+2025-11-12 11:23:49,441 - INFO - 显示器 2: 1920x1080 @ 59Hz, Primary=True
+2025-11-12 11:23:54,544 - INFO - Orientation config saved successfully.
+2025-11-12 11:23:54,544 - INFO - Extending monitors 1 and 2 with orientations
+2025-11-12 11:23:56,475 - INFO - Orientation set successfully for \\.\DISPLAY1: 横向
+2025-11-12 11:23:57,317 - INFO - Orientation set successfully for \\.\DISPLAY2: 横向
+2025-11-12 11:24:00,286 - INFO - Extend with orientation successful.
+2025-11-12 11:24:40,035 - INFO - Switching to single display: 1
+2025-11-12 11:24:49,166 - INFO - --- Display Info Refreshed: Found 1 monitors ---
+2025-11-12 11:24:49,166 - INFO - 显示器 1: 2560x1440 @ 165Hz, Primary=True
+2025-11-12 13:35:07,572 - INFO - Application quit by user.
+2025-11-12 13:52:04,127 - INFO - --- Application Started (V6.1) ---
+2025-11-12 13:52:04,193 - INFO - --- Display Info Refreshed: Found 2 monitors ---
+2025-11-12 13:52:04,193 - INFO - 显示器 1: 2560x1440 @ 165Hz, Primary=True
+2025-11-12 13:52:04,193 - INFO - 显示器 2: 1920x1080 @ 59Hz, Primary=False
+2025-11-12 13:52:05,030 - INFO - Main window displayed.
+2025-11-12 13:52:13,726 - INFO - Application quit by user.
+2025-11-12 13:52:34,215 - INFO - --- Application Started (V6.2) ---
+2025-11-12 13:52:34,278 - INFO - --- Display Info Refreshed: Found 2 monitors ---
+2025-11-12 13:52:34,279 - INFO - 显示器 1: 2560x1440 @ 165Hz, Primary=True
+2025-11-12 13:52:34,279 - INFO - 显示器 2: 1920x1080 @ 59Hz, Primary=False
+2025-11-12 13:52:35,139 - INFO - Main window displayed.
+2025-11-12 13:53:38,839 - INFO - Switching to single display: 1
+2025-11-12 13:53:41,733 - INFO - --- Display Info Refreshed: Found 1 monitors ---
+2025-11-12 13:53:41,733 - INFO - 显示器 1: 2560x1440 @ 165Hz, Primary=True
+2025-11-12 13:53:45,792 - INFO - --- Display Info Refreshed: Found 2 monitors ---
+2025-11-12 13:53:45,793 - INFO - 显示器 1: 2560x1440 @ 165Hz, Primary=True
+2025-11-12 13:53:45,793 - INFO - 显示器 2: 1920x1080 @ 59Hz, Primary=False
+2025-11-12 14:04:22,808 - INFO - Application quit by user.
+2025-11-13 17:21:34,277 - INFO - === Application Started V7.0 (Performance Optimized) ===
+2025-11-13 17:21:34,360 - INFO - Display info updated: 2 monitors
+2025-11-13 17:21:35,922 - INFO - Main window displayed
+2025-11-13 17:21:37,851 - INFO - Startup enabled
+2025-11-13 17:21:41,435 - INFO - Orientation config saved
+2025-11-13 17:21:41,437 - INFO - Extending monitors 1 and 2
+2025-11-13 17:21:41,745 - INFO - Orientation set for \\.\DISPLAY1: 横向
+2025-11-13 17:21:41,755 - INFO - Orientation set for \\.\DISPLAY2: 纵向翻转
+2025-11-13 17:21:42,177 - INFO - Extend with orientation successful
+2025-11-13 17:21:42,239 - INFO - Display info updated: 2 monitors
+2025-11-13 17:21:47,147 - INFO - Orientation config saved
+2025-11-13 17:21:47,148 - INFO - Extending monitors 1 and 2
+2025-11-13 17:21:47,438 - INFO - Orientation set for \\.\DISPLAY1: 横向
+2025-11-13 17:21:47,449 - INFO - Orientation set for \\.\DISPLAY2: 横向
+2025-11-13 17:21:47,773 - INFO - Extend with orientation successful
+2025-11-13 17:21:47,807 - INFO - Display info updated: 2 monitors
